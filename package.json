@@ -1,0 +1,16 @@
+{
+  "name": "senpai-interpreter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/senpai-js/senpai-interpreter.git",
+  "author": "jtenner <tenner.joshua@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "senpai-stage": "senpai-js/senpai-stage"
+  },
+  "devDependencies": {
+    "microbundle": "^0.6.0",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.3"
+  }
+}
